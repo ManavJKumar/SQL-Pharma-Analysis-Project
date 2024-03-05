@@ -7,8 +7,6 @@ This project represents my work as an intern at Psyliq, where I had the opportun
 
 Project Details
 
-Internship: Psyliq
-
 Project Type: Data Analysis
 
 Tools Used: SQL
@@ -21,6 +19,4 @@ How to Use
 
 This repository contains the SQL scripts and queries used for the data analysis. Feel free to explore the code and findings.
 
-Acknowledgments
 
-I'd like to express my gratitude to Psyliq for providing me with this valuable opportunity to work on this project and gain experience in data analysis.
